@@ -16,3 +16,5 @@ Sentiment Analysis is a fast track area of research in high demand for businesse
 - Project Plan file
 - Saved models that can be re-ran and evaluated again without the need for re-training
 
+# Important Note
+- To run the code yourself, comment out the 5th code block where twitter credentials would be.
